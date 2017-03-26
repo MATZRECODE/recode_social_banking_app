@@ -1,0 +1,38 @@
+page-personalize {
+    #main{
+        background: #ff7700;
+    }
+
+    #banner_txt{
+        text-align: center;
+        color: #fff;
+        padding: 20px;
+    }
+
+    #close_btn{
+        background: none;
+        box-shadow: none;
+        color: #fff;
+        float: right;
+        font-size: 20px;
+    }
+    .clear_fix{
+        clear: both;
+    }
+
+    .form_box{
+        background: #fff;
+        border-radius: 15px;
+        margin: 0 20px;
+    }
+
+    .toolbar-background-md{
+        background: none;
+    }
+
+    #p_sub_btn{
+        float: right;
+    }
+
+    
+}

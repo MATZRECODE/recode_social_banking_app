@@ -1,0 +1,21 @@
+{
+    "locations": [
+ 
+        {
+            "title": "Access banks",
+            "latitude": 6.4294235,
+            "longitude": 3.4279153
+        },
+        {
+            "title": "GTbank",
+            "latitude": 6.4343071,
+            "longitude": 3.4205929
+        },
+        {
+            "title": "UBA",
+            "latitude": 6.4353617,
+            "longitude": 3.4157163
+        }
+        
+    ]
+}
